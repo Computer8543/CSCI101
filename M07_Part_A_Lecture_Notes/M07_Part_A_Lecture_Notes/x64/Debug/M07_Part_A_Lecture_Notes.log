@@ -1,0 +1,3 @@
+﻿  M07_Part_A_Lecture_Notes.cpp
+C:\Users\spect\source\repos\M07_Part_A_Lecture_Notes\M07_Part_A_Lecture_Notes\M07_Part_A_Lecture_Notes.cpp(33,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  M07_Part_A_Lecture_Notes.vcxproj -> C:\Users\spect\source\repos\M07_Part_A_Lecture_Notes\x64\Debug\M07_Part_A_Lecture_Notes.exe

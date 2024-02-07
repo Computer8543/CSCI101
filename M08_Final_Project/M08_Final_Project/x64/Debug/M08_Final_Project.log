@@ -1,0 +1,8 @@
+﻿  M08_Final_Project.cpp
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(381): warning C4715: 'changeReservation': not all control paths return a value
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(429): warning C4715: 'confirmReservation': not all control paths return a value
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(856): warning C4715: 'completeOrder': not all control paths return a value
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(575): warning C4715: 'checkInReservation': not all control paths return a value
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(786): warning C4715: 'enterOrder': not all control paths return a value
+C:\Users\spect\source\repos\M08_Final_Project\M08_Final_Project\M08_Final_Project.cpp(1040): warning C4715: 'calculateAndPayTheBill': not all control paths return a value
+  M08_Final_Project.vcxproj -> C:\Users\spect\source\repos\M08_Final_Project\x64\Debug\M08_Final_Project.exe

@@ -1,0 +1,4 @@
+﻿  M06_Part_A_Programming_Assignment_1.cpp
+C:\Users\spect\source\repos\M06_Part_A_Programming_Assignment_1\M06_Part_A_Programming_Assignment_1\M06_Part_A_Programming_Assignment_1.cpp(187): warning C4715: 'getColor': not all control paths return a value
+C:\Users\spect\source\repos\M06_Part_A_Programming_Assignment_1\M06_Part_A_Programming_Assignment_1\M06_Part_A_Programming_Assignment_1.cpp(246): warning C4715: 'printColor': not all control paths return a value
+  M06_Part_A_Programming_Assignment_1.vcxproj -> C:\Users\spect\source\repos\M06_Part_A_Programming_Assignment_1\x64\Debug\M06_Part_A_Programming_Assignment_1.exe

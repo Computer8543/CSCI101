@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: C_Plus_Plus_Hello_World, Configuration: Debug x64 ------
+1>C_Plus_Plus_Hello_World.cpp
+1>C_Plus_Plus_Hello_World.vcxproj -> C:\Users\spect\source\repos\C_Plus_Plus_Hello_World\x64\Debug\C_Plus_Plus_Hello_World.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:13 PM and took 00.668 seconds ==========
